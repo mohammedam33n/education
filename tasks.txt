@@ -1,0 +1,18 @@
+in teacher show each student in a group:
+    display if he has a lesson and show it
+    display is he has a review lesson and show it
+    display the number of students in each group
+    display number of students with lessons
+    display number of student with lessons_review
+    display count of years in every exp
+    display if student paid
+
+use Excel export and Import in all tables
+
+make a note for all tables
+
+if the screen is too big the dashboard does'nt take full width
+
+
+in GroupStudentsController the function what is getStudentsOfGroup
+
